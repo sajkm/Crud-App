@@ -17,7 +17,7 @@ export default function Footer() {
               style={{ textDecoration: "none", color: "white" }}
             >
               <i className="fa-solid fa-cloud-arrow-up"></i>
-              {""}E Cart
+              {""}Contact Manager
             </Link>
           </h2>
           <p>
